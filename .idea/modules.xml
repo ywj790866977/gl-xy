@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/gl.iml" filepath="$PROJECT_DIR$/.idea/gl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gl-parent/gl-parent.iml" filepath="$PROJECT_DIR$/gl-parent/gl-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gl-service/gl-service.iml" filepath="$PROJECT_DIR$/gl-service/gl-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gl-service/service-edu/service-edu.iml" filepath="$PROJECT_DIR$/gl-service/service-edu/service-edu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gl-service/service-vod/service-vod.iml" filepath="$PROJECT_DIR$/gl-service/service-vod/service-vod.iml" />
+    </modules>
+  </component>
+</project>

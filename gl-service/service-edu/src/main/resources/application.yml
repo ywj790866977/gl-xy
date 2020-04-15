@@ -1,0 +1,15 @@
+server:
+  port: 8001
+spring:
+  application:
+    name: service-edu
+  datasource:
+    url: jdbc:mysql://45.76.218.204:3306/xh?useUnicode=true&useSSL=false&characterEncoding=utf8&serverTimezone=Asia/Shanghai
+    username: root
+    password: niunan789
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  profiles:
+    active: dev
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
