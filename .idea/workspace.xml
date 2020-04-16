@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc1836fb-7ede-4d02-af3d-8d2d1ad8df76" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gl-xy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gl-service/service-edu/src/main/resources/template/controller.java.vm" beforeDir="false" afterPath="$PROJECT_DIR$/gl-service/service-edu/src/main/resources/template/controller.java.vm" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,12 +158,31 @@
       <workItem from="1586928006369" duration="374000" />
       <workItem from="1586928676995" duration="14483000" />
       <workItem from="1586954236023" duration="1260000" />
-      <workItem from="1586958727018" duration="244000" />
+      <workItem from="1586958727018" duration="2160000" />
     </task>
+    <task id="LOCAL-00001" summary="添加ignore">
+      <created>1586959251229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586959251229</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加ignore">
+      <created>1586959264597</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586959264597</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加ignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="321" y="99" key="#Project_Structure" timestamp="1586928028961">
@@ -183,10 +201,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="481" y="272" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1586941182369" />
-    <state x="303" y="64" key="CommitChangelistDialog2" timestamp="1586959251091">
+    <state x="303" y="64" key="CommitChangelistDialog2" timestamp="1586959264491">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="303" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1586959251091" />
+    <state x="303" y="64" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1586959264491" />
     <state x="509" y="102" key="FileChooserDialogImpl" timestamp="1586928704781">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -255,10 +273,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="209" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586928715836" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1586959255004">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1586959268377">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1586959255004" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1586959268377" />
     <state x="138" y="45" key="new project wizard" timestamp="1586935040409">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
